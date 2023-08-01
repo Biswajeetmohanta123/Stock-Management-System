@@ -57,7 +57,7 @@ Stock {
 }
 >## Contributors
 
-* [Mukesh Kumar Pal](https://github.com/Mukeshpal123)
+* [Biswajeet Mohanta](https://github.com/Biswajeetmohanta123)
 
 >## Project Summary
 This project includes the basic design of the backend of Mapping, including stock model, and API endpoints for stock get and post creation/retrieval. Further improvements can be made to include additional features such as comment and like functionality
